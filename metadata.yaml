@@ -1,0 +1,36 @@
+_repo: The-Master-of-WarlockA-Virginia-War-Story_40013
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, C. D. (Charles D.)
+    alias: Williams, Charles D.
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '24824'
+    url: http://www.gutenberg.org/2009/agents/24824
+covers:
+- cover_type: archival
+  image_path: 40013-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2012-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40013'
+  lccn: '03002227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+title: 'The Master of Warlock: A Virginia War Story'
+url: http://www.gutenberg.org/ebooks/40013
